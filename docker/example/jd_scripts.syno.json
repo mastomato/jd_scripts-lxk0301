@@ -18,15 +18,15 @@
       },
       {
          "key" : "JD_COOKIE",
-         "value" : "pt_key=AAJfjaNrADASxxxxxxxKpfDaZ2pSBOYTxtPqLK8U1Q;pt_pin=lxxxxx5;"
+         "value" : "pt_key=AAJguZx5ADBbQtZYkRTJqvTMwWQ35Sc07vRbeZprE9K7nIJ4q9fS4jf7JNrPjiLtk_FLWRV-zOU;pt_pin=tomatomars;"
       },
       {
          "key" : "TG_BOT_TOKEN",
-         "value" : "13xxxxxx80:AAEkNxxxxxxzNf91WQ"
+         "value" : "1617226993:AAE1ouXUglrdZL49r2TZM3vaBFONDjfYuG0"
       },
       {
          "key" : "TG_USER_ID",
-         "value" : "12xxxx206"
+         "value" : "1032608562"
       },
       {
          "key" : "PLANT_BEAN_SHARECODES",
@@ -51,7 +51,7 @@
    ],
    "exporting" : false,
    "id" : "18af38bc0ac37a40e4b9608a86fef56c464577cc160bbdddec90155284fcf4e5",
-   "image" : "akyakya/jd_scripts",
+   "image" : "lxk0301/jd_scripts",
    "is_ddsm" : false,
    "is_package" : false,
    "links" : [],
